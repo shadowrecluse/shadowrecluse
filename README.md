@@ -6,5 +6,5 @@
 
   <br>
   
-  <a href="https://github.com/truthlesshadows"><img src=previous.webp width="350"></a><a href="https://github.com/truthlesshadows"><img src=next.webp width="300"> </a>
+  <a href="https://github.com/jesterfangz"><img src=previous.webp width="350"></a><a href="https://github.com/jesterfangz"><img src=next.webp width="300"> </a>
 </div>
