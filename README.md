@@ -5,6 +5,9 @@
   <img src=gerdfghbrdefb.png width="1200">
 
   <br>
+  <img src=didnt.gif width="750">
+  <img src=s3did.gif width="750">
+  <br>
   
   <a href="https://github.com/jesterfangz"><img src=previous.webp width="350"></a><a href="https://github.com/jesterfangz"><img src=next.webp width="300"> </a>
 </div>
